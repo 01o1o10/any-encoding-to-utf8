@@ -1,4 +1,4 @@
-# any-encoding-to-utf8
+# utf8convertor
 
 # Description
 This program converts any encoded file to utf-8 except for utf-8 character encoding. IYou can use this program to fix the character encoding errors you get when working with a rar file on linux or working with files other than utf-8 encoded.
