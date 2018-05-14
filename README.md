@@ -7,8 +7,8 @@ This program converts any encoded file to utf-8 except for utf-8 character encod
 * First clone this project into a suitable directory.
 * Dependencies: python3
 * Then type the commands under this line.
-* `cd utf8convertor #into the project ddirectory
- python3 utf8convertor.py #run project`
+* `cd utf8convertor #into the project ddirectory`
+* `python3 utf8convertor.py #run project`
 
 # Using
 When the program runs, it will ask for the folder where the target files are located.
